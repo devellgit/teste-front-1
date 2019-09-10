@@ -11,5 +11,5 @@
   <li>Desenvolver uma ordenação alfabética</li>
   <li>Desenvolver uma ordenação por proximidade (georeferenciamento lat/lng)</li>
 </ul>
-<h3>Verifique os prints na pasta "Telas"</h3>
+<h3>Verifique os prints na pasta "Telas".<br>Sugestões de layout são aceitas.</h3>
 <h4>Aguardamos ansiosamente pelo seu teste! Boa sorte!</h4>
